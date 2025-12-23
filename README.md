@@ -4,7 +4,6 @@
 Software Engineer specializing in AI solutions, cloud infrastructure, and automation. I build scalable systems and develop intelligent applications using modern technologies.
 
 ## 🚀 Featured Projects
-- **[futuro-trabalho-ia](https://github.com/guilhermelimait/futuro-trabalho-ia)** - AI-driven insights on the future of work using Python and Google Gemini
 - **[DefenseMon](https://github.com/guilhermelimait/DefenseMon)** - Automated monitoring tool for defense movements
 - **[AI-Solutions](https://github.com/guilhermelimait/AI-Solutions)** - Test environments and implementations for AI solutions
 - **[Google-GeminiAI](https://github.com/guilhermelimait/Google-GeminiAI)** - Integration and experimentation with Google's Gemini AI

@@ -50,9 +50,9 @@ I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastr
 
 ---
 
-## Let’s Connect!
+## Let's Connect!
 
-I’m open to:
+I'm open to:
 - Collaboration on AI, automation & open-source
 - New tech challenges
 - Mentoring and sharing knowledge

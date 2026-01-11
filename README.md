@@ -11,7 +11,7 @@ I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastr
 
 - Deeply interested in AI, Python, and automation
 - Dedicated to open-source and impactful collaboration
-- Based in Brazil, collaborating with teams worldwide
+- Based in Italy, Milan, collaborating with teams worldwide
 
 ---
 

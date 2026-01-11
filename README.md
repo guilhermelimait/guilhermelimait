@@ -47,7 +47,7 @@ I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastr
 
 - **Python & PowerShell**: Effective scripting for automation, data, and systems
 - **AI Integration**: Hands-on solutions with Python, APIs, and frameworks
-- **LEGO Robotics & IoT**: Python-based LEGO project development, Arduino and Raspberry Pi tools blending physical computing with software
+- **LEGO Robotics & IoT**: Python-based LEGO project development and Arduino/Raspberry Pi tools that blend physical computing with software innovation
 - **OSINT & Security**: Building open-source intelligence tools and security analysis solutions
 - **Infrastructure as Code**: Automated, scalable infrastructure (Terraform, Docker)
 - **Best Practices**: Clean, readable, and well-documented code for every project

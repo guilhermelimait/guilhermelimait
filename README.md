@@ -7,7 +7,7 @@
 
 ## f680 About Me
 
-I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastructure**, and cutting-edge automation. I build scalable systems and intelligent applications that solve real-world challenges. My focus is robust code, effective DevOps, and constant learning.
+I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastructure**, and cutting-edge automation. I build scalable systems and intelligent applications that solve real-world challenges. My expertise spans from **LEGO robotics** and **Python-based LEGO project development** to building **open-source intelligence (OSINT) tools** and **security analysis solutions**. I also develop tools for **Arduino** and **Raspberry Pi platforms**, blending physical computing with software innovation. My focus is robust code, effective DevOps, and constant learning.
 
 - f9e0 Deeply interested in AI, Python, and automation
 - f4a1 Dedicated to open-source and impactful collaboration
@@ -35,6 +35,8 @@ I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![LEGO](https://img.shields.io/badge/LEGO-FFCB05?style=flat&logo=lego&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat&logo=powerapps&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
@@ -45,6 +47,8 @@ I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastr
 
 - **Python & PowerShell**: Effective scripting for automation, data, and systems
 - **AI Integration**: Hands-on solutions with Python, APIs, and frameworks
+- **LEGO Robotics & IoT**: Python-based LEGO project development and Arduino/Raspberry Pi tools that blend physical computing with software innovation
+- **OSINT & Security**: Building open-source intelligence tools and security analysis solutions
 - **Infrastructure as Code**: Automated, scalable infrastructure (Terraform, Docker)
 - **Best Practices**: Clean, readable, and well-documented code for every project
 

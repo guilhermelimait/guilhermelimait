@@ -17,8 +17,6 @@ I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastr
 
 ## Featured Projects
 
-- [**DeepKrak3n**](https://github.com/guilhermelimait/DeepKrak3n)
-  <br>OSINT profile investigation tool
 - [**AI-Solutions**](https://github.com/guilhermelimait/AI-Solutions)
   <br>Test environments and implementations for AI solutions
 - [**Google-GeminiAI**](https://github.com/guilhermelimait/Google-GeminiAI)

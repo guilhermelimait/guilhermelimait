@@ -9,7 +9,7 @@
 
 I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastructure**, and cutting-edge automation. I build scalable systems and intelligent applications that solve real-world challenges. My focus is robust code, effective DevOps, and constant learning.
 
-- Deeply interested in AI, Python, and automation
+- Deeply interested in AI, Python, automation, OSINT and InfoSec
 - Dedicated to open-source and impactful collaboration
 - Based in Italy, Milan, collaborating with teams worldwide
 
@@ -17,6 +17,8 @@ I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastr
 
 ## Featured Projects
 
+- [**deepkrak3n**](https://github.com/guilhermelimait/deepkrak3n)
+  <br>OSINT Profile search with AI profile data analyzer tool
 - [**AI-Solutions**](https://github.com/guilhermelimait/AI-Solutions)
   <br>Test environments and implementations for AI solutions
 - [**Google-GeminiAI**](https://github.com/guilhermelimait/Google-GeminiAI)

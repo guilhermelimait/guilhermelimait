@@ -15,17 +15,6 @@ I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastr
 
 ---
 
-## Featured Projects
-
-- [**deepkrak3n**](https://github.com/guilhermelimait/deepkrak3n)
-  <br>OSINT Profile search with AI profile data analyzer tool
-- [**AI-Solutions**](https://github.com/guilhermelimait/AI-Solutions)
-  <br>Test environments and implementations for AI solutions
-- [**Google-GeminiAI**](https://github.com/guilhermelimait/Google-GeminiAI)
-  <br>Experiments with Google's Gemini AI platform
-
----
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

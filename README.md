@@ -1,23 +1,33 @@
 # Guilherme Lima
 
-I build practical automation and infrastructure projects focused on solving real operational problems.
+Solutions Specialist based in Milan. I work on automation, infrastructure, and tooling for IT environments — and occasionally build things just because they should exist.
 
-Most of what I publish comes from day-to-day work: scripts, cloud templates, experiments, and small tools that make repetitive tasks easier and more reliable.
+This GitHub holds a mix of professional utilities and personal projects, from PowerShell scripts used in real deployments to a Bluetooth social app for Android handheld collectors.
 
-## What You Will Find Here
+---
 
-- PowerShell automation for Microsoft 365 and Active Directory
-- Python projects and utility scripts
-- Terraform examples for Azure infrastructure
-- Docker setup examples
-- Notes and technical writeups
+## What is here
 
-## Why This Profile Exists
+**[ThunderPass](https://github.com/guilhermelimait/ThunderPass)** — Android app that brings StreetPass-style passive Bluetooth encounters back. Built in Kotlin with Jetpack Compose. No accounts, no cloud, end-to-end encrypted.
 
-This profile is a public record of how I work.
+**[Python](https://github.com/guilhermelimait/Python)** — Scripts and small projects covering computer vision, content migration, Bluetooth device monitoring, and general automation utilities.
 
-I prefer simple solutions, clear documentation, and projects that are useful in real environments.
+**[Google-GeminiAI](https://github.com/guilhermelimait/Google-GeminiAI)** — JavaScript experiments with the Gemini API: a Star Trek-themed chat assistant, basic API usage examples, and an image analyzer using Gemini Pro Vision.
 
-## Contact
+**[Terraform](https://github.com/guilhermelimait/Terraform)** — Infrastructure-as-Code templates for Azure and other cloud environments.
 
-LinkedIn: https://www.linkedin.com/in/guilhermelimait
+**[PowerShell](https://github.com/guilhermelimait/Powershell)** — Automation scripts for Windows and enterprise IT operations.
+
+**[Docker](https://github.com/guilhermelimait/Docker)** — Container configurations and compose setups.
+
+**[Arduino](https://github.com/guilhermelimait/Arduino)** — C++ sketches for microcontroller projects.
+
+**[PowerApps](https://github.com/guilhermelimait/PowerApps)** — Low-code solutions built on the Microsoft Power Platform.
+
+---
+
+## Stack
+
+Python, PowerShell, Terraform, Docker, Kotlin, JavaScript, C++, Arduino, Microsoft Power Platform
+
+[LinkedIn](https://www.linkedin.com/in/guilhermelimait/)

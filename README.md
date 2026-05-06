@@ -1,58 +1,33 @@
-<!-- Banner (optional) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Guilherme%20Lima&fontSize=40&animation=fadeIn" alt="Banner"/>
-</p>
+# Guilherme Lima
 
-# Hi, I'm Guilherme Lima!
+Solutions Specialist based in Milan. I work on automation, infrastructure, and tooling for IT environments — and occasionally build things just because they should exist.
 
-## About Me
-
-I'm a passionate Software Engineer focused on **AI solutions**, **cloud infrastructure**, and cutting-edge automation. I build scalable systems and intelligent applications that solve real-world challenges. My focus is robust code, effective DevOps, and constant learning.
-
-- Deeply interested in AI, Python, automation, OSINT and InfoSec
-- Dedicated to open-source and impactful collaboration
-- Based in Italy, Milan, collaborating with teams worldwide
+This GitHub holds a mix of professional utilities and personal projects, from PowerShell scripts used in real deployments to a Bluetooth social app for Android handheld collectors.
 
 ---
 
-## Tech Stack
+## What is here
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat&logo=powerapps&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
+**[ThunderPass](https://github.com/guilhermelimait/ThunderPass)** — Android app that brings StreetPass-style passive Bluetooth encounters back. Built in Kotlin with Jetpack Compose. No accounts, no cloud, end-to-end encrypted.
 
----
+**[Python](https://github.com/guilhermelimait/Python)** — Scripts and small projects covering computer vision, content migration, Bluetooth device monitoring, and general automation utilities.
 
-## What I Do Best
+**[Google-GeminiAI](https://github.com/guilhermelimait/Google-GeminiAI)** — JavaScript experiments with the Gemini API: a Star Trek-themed chat assistant, basic API usage examples, and an image analyzer using Gemini Pro Vision.
 
-- **Python & PowerShell**: Effective scripting for automation, data, and systems
-- **AI Integration**: Hands-on solutions with Python, APIs, and frameworks
-- **Infrastructure as Code**: Automated, scalable infrastructure (Terraform, Docker)
-- **Best Practices**: Clean, readable, and well-documented code for every project
+**[Terraform](https://github.com/guilhermelimait/Terraform)** — Infrastructure-as-Code templates for Azure and other cloud environments.
+
+**[PowerShell](https://github.com/guilhermelimait/Powershell)** — Automation scripts for Windows and enterprise IT operations.
+
+**[Docker](https://github.com/guilhermelimait/Docker)** — Container configurations and compose setups.
+
+**[Arduino](https://github.com/guilhermelimait/Arduino)** — C++ sketches for microcontroller projects.
+
+**[PowerApps](https://github.com/guilhermelimait/PowerApps)** — Low-code solutions built on the Microsoft Power Platform.
 
 ---
 
-## Let's Connect!
+## Stack
 
-I'm open to:
-- Collaboration on AI, automation & open-source
-- New tech challenges
-- Mentoring and sharing knowledge
+Python, PowerShell, Terraform, Docker, Kotlin, JavaScript, C++, Arduino, Microsoft Power Platform
 
-**Reach me:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelimait/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/guilhermelimait)
-<!-- Add your other social or portfolio links above -->
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermelimait&style=flat-square&color=blue" alt="profile views"/>
-</p>
+[LinkedIn](https://www.linkedin.com/in/guilhermelimait/)

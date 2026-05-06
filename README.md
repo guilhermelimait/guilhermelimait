@@ -1,33 +1,36 @@
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Guilherme%20Lima&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Build%20first%20%7C%20Learn%20fast%20%7C%20Deliver%20with%20purpose&descAlignY=58&descSize=16" width="100%" />
+</p>
+
 # Guilherme Lima
 
-Solutions Specialist based in Milan. I work on automation, infrastructure, and tooling for IT environments — and occasionally build things just because they should exist.
+## About me
 
-This GitHub holds a mix of professional utilities and personal projects, from PowerShell scripts used in real deployments to a Bluetooth social app for Android handheld collectors.
+I am a technology enthusiast who loves to build, learn, and share. I am passionate about solving real problems with code and automation, and I am always exploring new tools, platforms, and ideas. I enjoy gaming, experimenting with Android projects, building robots with LEGO technologies, exploring display and screen technologies, and discovering what is next in tech. I am also part of the LEGO ROBOTMAKERS LUG group, recognized by LEGO since 2017, and known for bringing together some of the world's top robot specialists.
 
----
+My approach is simple: start with an MVP, build first, learn fast, and improve continuously. I care about quick delivery, clear outcomes, and responsible execution.
 
-## What is here
+## What I build
 
-**[ThunderPass](https://github.com/guilhermelimait/ThunderPass)** — Android app that brings StreetPass-style passive Bluetooth encounters back. Built in Kotlin with Jetpack Compose. No accounts, no cloud, end-to-end encrypted.
+- AI-assisted and productivity-focused solutions
+- Automation and operations tooling
+- Infrastructure and reproducible environments
+- Android and mobile-first experiments
+- Hardware and embedded prototypes
+- LEGO robots prototypes and human interaction devices
 
-**[Python](https://github.com/guilhermelimait/Python)** — Scripts and small projects covering computer vision, content migration, Bluetooth device monitoring, and general automation utilities.
+## Connect
 
-**[Google-GeminiAI](https://github.com/guilhermelimait/Google-GeminiAI)** — JavaScript experiments with the Gemini API: a Star Trek-themed chat assistant, basic API usage examples, and an image analyzer using Gemini Pro Vision.
-
-**[Terraform](https://github.com/guilhermelimait/Terraform)** — Infrastructure-as-Code templates for Azure and other cloud environments.
-
-**[PowerShell](https://github.com/guilhermelimait/Powershell)** — Automation scripts for Windows and enterprise IT operations.
-
-**[Docker](https://github.com/guilhermelimait/Docker)** — Container configurations and compose setups.
-
-**[Arduino](https://github.com/guilhermelimait/Arduino)** — C++ sketches for microcontroller projects.
-
-**[PowerApps](https://github.com/guilhermelimait/PowerApps)** — Low-code solutions built on the Microsoft Power Platform.
-
----
+- LinkedIn: https://www.linkedin.com/in/guilhermelimait/
 
 ## Stack
 
-Python, PowerShell, Terraform, Docker, Kotlin, JavaScript, C++, Arduino, Microsoft Power Platform
-
-[LinkedIn](https://www.linkedin.com/in/guilhermelimait/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Power%20Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
